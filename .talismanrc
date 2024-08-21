@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: client/public/vite.svg
+  checksum: a47bec38d4060434e5ddd2ac44254c38b6fd4e276287ec27f3e64471c3b10a5e
+- filename: server/package-lock.json
+  checksum: 058697137dfecda6cbaa0c2b733fb10a6364061f78b80bbb44429d38d4340d5f
+- filename: client/package-lock.json
+  checksum: 097feb35203ebd11a58622f87974a1af26134eff024877858fc0974df0b13985
+- filename: client/src/components/chatBot/ChatBot.jsx
+  checksum: 0841bda894ccdeb728e87d9abde980865bb175fc1241271c4c3bbb9f1c4041c9
+- filename: server/queryDoc.js
+  checksum: cfbe73ae399645d0a8f8e96c3180cf9113f94896feaab29d496a3075bf5be507
+version: ""
